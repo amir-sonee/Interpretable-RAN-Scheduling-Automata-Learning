@@ -1,0 +1,17 @@
+graphviz==0.21
+gymnasium==1.2.1
+keras==3.12.0
+matplotlib==3.10.7
+numpy==2.2.6
+panda==0.3.1
+pandas==2.3.3
+pygame==2.6.1
+Pygments==2.19.2
+pytz==2025.2
+ray==2.50.1
+scikit-learn==1.7.2
+scipy==1.15.3
+tensorflow==2.20.0
+torch==2.9.0
+tqdm==4.67.1
+-e git+https://github.com/rparac/gym-subgoal-automata.git@3f6538189cd16ae8e8741453979fc733e0b53eda #egg=gym_subgoal_automata
